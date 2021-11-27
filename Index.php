@@ -28,5 +28,5 @@
 </body>
 
 <?php
-echo "Kleine änderung";
+echo "Kleine Änderung";
 ?>
